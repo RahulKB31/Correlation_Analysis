@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+setuptools
+scikit-learn
+xgboost
+cupy-cuda11x
+joblib
+openpyxl
+standard-scaler
